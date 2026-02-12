@@ -1,2 +1,2 @@
 # multicall3
-The Multicall3 Contract
+Multicall3 Contract
